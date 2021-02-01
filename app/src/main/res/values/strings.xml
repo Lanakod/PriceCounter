@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Price Counter by Малахов М.</string>
+    <string name="header">Расчёт стоимости поездки на дачу</string>
+    <string name="length">Расстояние: </string>
+    <string name="fuel">Расход топлива: </string>
+    <string name="price">Цена за литр топлива: </string>
+    <string name="count">Расчёт!</string>
+    <string name="author">Разработчик Малахов Максим</string>
+    <string name="quit">Выход</string>
+</resources>
